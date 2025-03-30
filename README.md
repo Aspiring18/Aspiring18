@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Aspiring18
-- 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning SQL, Python, R, machine learning.
-- 💞️ I’m looking to collaborate on projects on data. 
-- 📫 How to reach me via www.linkedin.com/in/rajshree-tarapure-42507a213
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am crazy about learning new things. 
+🌟 Hey there! I'm @Aspiring18 — on a mission to turn data into dazzling insights!
+🔎 Passionate about: Unlocking the power of data analytics
+📚 Currently diving into: SQL, Python, R, and the magical world of machine learning
+🤝 Let’s Collab! I’m all about teaming up on awesome data projects
+🌐 Connect with me: Rajshree Tarapure on LinkedIn
+🙋 Pronouns: She/Her
+🎉 Fun Fact: I’m basically a sponge for knowledge — if it’s new and exciting, I’m in!
 
 <!---
 Aspiring18/Aspiring18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
